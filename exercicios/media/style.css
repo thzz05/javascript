@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+.Container {
+    text-align: center;
+}
+
+.Container h1 {
+    color: #ee3975;
+}
